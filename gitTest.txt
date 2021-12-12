@@ -10,3 +10,4 @@ hello git！I am rango！
 hello git！I am rango！
 hello git！I am rango！
 hello git！I am rango！master-git
+hello git！I am rango！hot-git
